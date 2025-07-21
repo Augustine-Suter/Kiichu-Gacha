@@ -1,0 +1,27 @@
+Replace the instructions inside the quotes and brackets with the required info.
+Dont forget to remove all of these instructions and save this file as 'config.json' when finished.
+{
+  "version": "Replace with your current version number (you can choose whatever you want)",
+  "prefix": "Replace with your preferred default prefix for the bot",
+  "token": "Replace with your bot's token found in developer portal",
+  "permissions": "1532229053686",
+  "application_id": "Replace with your bot's application_id found in developer portal",
+  "owners": [Replace with your user id and any other people you want to have access to the Owner commands (VERY risky to give anyone else), separated by commas],
+  "trustedUsers": [Replace with your user id and the user id's of your trusted users (which get access to trusted.py commands), separated by commas],
+  "modRoles": [Replace with IDs of your mod roles, separated by commas],
+  "nori_role_id": "1239143321696210974",
+  "headpatters_role_id": "752590175711920198",
+  "fresh_meat_role_id": "906844111582167061",
+  "liwe_role_id": "781190734954758154",
+  "protector_role_id": "928939995660709908",
+  "god_role_id": "1123491940722294784",
+  "failed_verify_role_id": "1261944418429304972",
+  "jailed_role_id": "786476608445874216",
+  "automod_channel_id": "906624474403717141",
+  "vclogs_channel_id": "1281604578701349005",
+  "status_channel_id": "Replace with the channel id where you want the bot to send startup/shutdown messages in your server",
+  "genchat_channel_id": "Replace with the channel id of gen chat",
+  "bot_guild_id": "Replace with your bot's primary guild id here",
+  "sync_commands_globally": false,
+  "YOUTUBE_API_KEY": "Replace with your Google API key to use Youtube Data API v3"
+}

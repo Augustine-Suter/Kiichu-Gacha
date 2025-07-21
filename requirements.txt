@@ -1,0 +1,9 @@
+aiohttp
+aiosqlite
+discord.py
+requests
+async-timeout
+PyNaCl
+pillow
+google-api-python-client
+git+https://github.com/Rapptz/discord-ext-menus
