@@ -13,7 +13,7 @@ At a high level, the project has four main pieces:
    - Sends rich embeds and interactive buttons to guide users through actions.
 
 2. **Card & Gacha System**  
-   - Defines banners (gacha pools), cards, and card variants (base, holo, signed, etc.).  
+   - Defines banners (gacha pools), cards, and card variants (i.e. different rarities: base, holo, signed, golden signed, etc.).  
    - Implements the logic for rolling on banners, awarding cards, and updating inventories.
 
 3. **Database Layer**  
