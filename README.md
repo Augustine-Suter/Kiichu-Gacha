@@ -30,7 +30,7 @@ Together, these components let users interact entirely through Discord as well a
 ## Typical User Flow
 
 - A new user joins and runs a command like `!dailies` to initialize their account and earn starter rewards.  
-- They roll on a banner to get cards, which are stored in their inventory in the database.  
+- They roll on a banner to get cards (!pull), which are stored in their inventory in the database.  
 - They can link their Twitch account to the same profile and earn more pulls through streams via donations or channel redeems.  
 - Leaderboards and info commands read from the database to show progress and card collections.
 
