@@ -2,8 +2,6 @@
 ## Developed by: Augustine Suter
 This is a Card collecting Discord bot where users can collect and show off virtual trading cards through a gacha-style system. They can chat to earn points, do their dailies, and spend points on rolling for cards of different rarities! It combines a Discord bot, a small web API, and a SQLite database into one cohesive app.
 
-Since this is a WIP and just a passion project, many features are incomplete/many bugs may arise, and I will do my best to address them.
-
 ## High‑Level Overview
 
 At a high level, the project has four main pieces:
