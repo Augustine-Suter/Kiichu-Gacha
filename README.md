@@ -20,7 +20,7 @@ At a high level, the project has four main pieces:
    - These stats are readily availalbe to be viewed via commands for the players to see leaderboards, profiles, and card collections.
 
 4. **Web API & Integrations**  
-   - Exposes a small HTTP API to handle Twitch OAuth and other integrations.  
+   - Exposes a small HTTP API to handle Twitch OAuth and other integrations to allow bot interactions through a Twitch stream.  
    - Allows Twitch events and external services (like Streamerbot) to grant rewards to the correct Discord user.
 
 Together, these components let users interact entirely through Discord as well as Twitch during a stream, while the database and API keep everything persistent and connected to external services.
@@ -32,4 +32,4 @@ Together, these components let users interact entirely through Discord as well a
 - They can link their Twitch account to the same profile and earn more pulls through streams via donations or channel redeems.  
 - Leaderboards and info commands read from the database to show progress and card collections.
 
-This structure keeps the gameplay inside Discord, while the underlying services handle storage, image links, and account linking behind the scenes.
+This structure keeps the gameplay inside Discord and Twitch, while the underlying services handle storage, image links, and account linking behind the scenes.
