@@ -1,6 +1,6 @@
 # KiichuBot
 ## Developed by: Augustine Suter
-This is a Card collecting Discord bot servicing 6,000+ users where they can collect and show off virtual trading cards through a gacha-style system. They can chat to earn points, do their dailies, and spend points on rolling for cards of different rarities! It combines a Discord bot, a small web API, and a SQLite database into one cohesive app.
+This is a Card collecting Discord bot servicing 7,000+ users where they can collect and show off virtual trading cards through a gacha-style system. They can chat to earn points, do their dailies, and spend points on rolling for cards of different rarities! It combines a Discord bot, a small web API, and a SQLite database into one cohesive app.
 
 ## High‑Level Overview
 
